@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Социальная сеть
+## Проект реализован на React. Возможность добавлять/удалять/лайкать/фильтровать записи.
+## ![Imgur](https://i.imgur.com/Rme0QGf.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
